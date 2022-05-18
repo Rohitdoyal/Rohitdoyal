@@ -15,8 +15,6 @@
 <a href="https://www.hackerrank.com/rohitdoyal_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="rahulgrover99" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats 📊
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohitdoyal&show_icons=true&locale=en" alt="rahulgrover99" /></p>
 
 <!--
 **Rohitdoyal/Rohitdoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
