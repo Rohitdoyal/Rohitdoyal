@@ -3,7 +3,7 @@
 * 🔭 Former Fullstack intern at @willings
 * 💬 Ask me about Python, C++,React  
 * 📫 How to reach me: rohit.2@iitj.ac.in
-* 📫 Checkout my [résumé](rohitdoyal.github.io)
+* 📫 Resume : [rohitdoyal.github.io ](https://rohitdoyal.github.io/)
 * ⚡ Fun fact: I am probably binge watching MARVEL right now, again!
 
 
