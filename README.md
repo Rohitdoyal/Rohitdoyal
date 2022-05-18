@@ -1,7 +1,8 @@
 ### Hi there 👋
 * 🔭 Junior at @iitjodhpur
-* 🔭 Former Fullstack intern at @willings
-* 💬 Ask me about Python, C++,React  
+* 🔭 I’m a Full Stack Developer . 
+* 💬 Ask me about Python, C++,React.
+* 👯 I’m looking to collaborate on fun and exciting ideas.  
 * 📫 How to reach me: rohit.2@iitj.ac.in
 * 📫 Resume : [rohitdoyal.github.io ](https://rohitdoyal.github.io/)
 * ⚡ Fun fact: I am probably binge watching MARVEL right now, again!
