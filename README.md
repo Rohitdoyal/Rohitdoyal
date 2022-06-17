@@ -1,5 +1,5 @@
 ### Hi there 👋
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">              
 * 🔭 Junior at @iitjodhpur
 * 🔭 I’m a Full Stack Developer . 
 * 💬 Ask me about Python, C++,React.
@@ -8,6 +8,8 @@
 * 📫 Checkout my [Portfolio](https://rohitdoyal.github.io/) 
 * ⚡ Fun fact: I am probably binge watching MARVEL right now, again!
 
+
+<img src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif" width="150">
 
 ## Connect with me: 
 <p align="left">
