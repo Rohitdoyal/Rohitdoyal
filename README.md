@@ -1,5 +1,4 @@
-### Hi there 👋
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">              
+### Hi there 👋  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">              
 * 🔭 Junior at @iitjodhpur
 * 🔭 I’m a Full Stack Developer . 
 * 💬 Ask me about Python, C++,React.
