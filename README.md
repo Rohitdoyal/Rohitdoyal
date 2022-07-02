@@ -22,7 +22,7 @@
 <p display ="flexbox" align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohitdoyal&show_icons=true&locale=en" alt="rohitdoyal" /><img    src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif" width="170"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdoyal&layout=compact&show_icons=true&locale=en" />
   </p>
-<a href="https://github.com/Rohitdoyal/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <!--
 **Rohitdoyal/Rohitdoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
