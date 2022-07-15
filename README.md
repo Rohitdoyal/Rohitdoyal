@@ -19,8 +19,8 @@
 
 
 ## GitHub Stats 📊
-<p display ="flexbox" align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohitdoyal&show_icons=true&locale=en" alt="rohitdoyal" /><img    src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif" width="170"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdoyal&layout=compact&show_icons=true&locale=en" />
+<p display ="flexbox" align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohitdoyal&show_icons=true&locale=en&theme=github_dark" alt="rohitdoyal" /><img    src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif" width="170"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdoyal&layout=compact&show_icons=true&locale=en&theme=github_dark" />
   </p>
 
 <!--
