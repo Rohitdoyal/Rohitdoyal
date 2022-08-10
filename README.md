@@ -1,5 +1,5 @@
 ### Hi there 👋  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">              
-* 🔭 Junior at @iitjodhpur
+* 🔭 Final year Student at @iitjodhpur
 * 🔭 I’m a Full Stack Developer . 
 * 💬 Ask me about Python, C++,React.
 * 👯 I’m looking to collaborate on fun and exciting ideas.  
