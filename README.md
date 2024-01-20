@@ -1,9 +1,9 @@
 ### Hi there 👋  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">              
 * 🔭 Graduated from @iitjodhpur
 * 🔭 I’m a Full Stack Developer . 
-* 💬 Ask me about Python, C++,React.
+* 💬 Ask me about Python, C++, Web Dev .
 * 👯 I’m looking to collaborate on fun and exciting ideas.  
-* 📫 How to reach me: rohit.2@iitj.ac.in
+* 📫 How to reach me: rohitdoyal172001@gmail.com
 * 📫 Checkout my [Portfolio](https://rohitdoyal.github.io/) 
 * ⚡ Fun fact: I am probably binge watching MARVEL right now, again!
 
@@ -17,6 +17,8 @@
 <a href="https://www.hackerrank.com/rohitdoyal_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="rahulgrover99" height="30" width="40" /></a>
 </p>
 
+## ❤ Profile Views and Followers
+![](https://komarev.com/ghpvc/?username=Rohitdoyal&color=blue)
 
 ## GitHub Stats 📊
 <p display ="flexbox" align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohitdoyal&show_icons=true&locale=en&theme=github_dark" alt="rohitdoyal" /><img    src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif" width="170"> 
